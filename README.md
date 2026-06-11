@@ -1,78 +1,106 @@
 # Hi, I'm Naveen Koyyala
 
-**Data Analyst Fresher | SQL | Python | Power BI | Excel | BI Reporting**
+Data Analyst Fresher | SQL | Python | Power BI | Excel | BI Reporting
 
-I am a B.Tech ECE graduate from Hyderabad, India, with a strong interest in data analytics, business intelligence, and reporting automation.  
-I build dashboard and analytics projects using SQL, Python, Excel, Power BI, Power Query, and Tableau.  
-My focus is on data cleaning, validation, KPI reporting, dashboard development, and converting raw data into useful business insights.
+I am a B.Tech ECE graduate from Hyderabad, India, interested in Data Analytics, Business Intelligence, reporting automation, and dashboard development.
+
+I build analytics projects using Python, SQL, Excel, Power BI, and GitHub. My focus is on data cleaning, validation, KPI reporting, dashboard storytelling, and converting raw data into useful business insights.
 
 ---
 
 ## Skills
 
-### Data Analytics & Programming
-- SQL, MySQL
-- Python, Pandas, NumPy
-- Data Cleaning, Data Validation, Data Transformation
-- Exploratory Data Analysis
-- KPI Tracking and Reporting
+### Data Analytics
 
-### Business Intelligence & Visualization
-- Power BI
-- Tableau
-- Excel
-- Power Query
-- Dashboard Development
-- BI Reporting
+* SQL, MySQL
+* Python, pandas, NumPy
+* Data Cleaning
+* Data Validation
+* Exploratory Data Analysis
+* KPI Reporting
+* Business Insights
 
-### Automation & Reporting
-- Excel VBA
-- Reporting Automation
-- MIS Reporting
-- Business Insights
-- Data Quality Checks
+### Business Intelligence
+
+* Power BI
+* DAX
+* Excel
+* Power Query
+* Dashboard Development
+* Data Visualization
+* BI Reporting
+
+### Reporting & Automation
+
+* MIS Reporting
+* Data Quality Checks
+* Report Automation
+* Basic AI-style automation using Python
 
 ---
 
 ## Featured Projects
 
-| Project | Summary | Tools Used |
-|---|---|---|
-| [Procurement Analytics Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Analyzed procurement and supplier performance data to track KPIs, identify process gaps, and support business reporting. | SQL, Excel, Power Query, Power BI |
-| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard) | Built a dashboard to analyze mutual fund performance using NAV trends, returns, expense ratio, Alpha, Beta, and Sharpe Ratio. | Excel, Power Query, Power BI |
-| [Portfolio Optimization Analysis](https://github.com/Koyyalanaveen/portfolio-optimization-tool) | Performed portfolio risk-return analysis using Python to compare assets, calculate performance metrics, and support allocation decisions. | Python, Pandas, NumPy, Excel |
-| AI-Based Smart Traffic Monitoring & Automatic Challan System | Developed an academic computer vision project for traffic violation detection and structured violation record management. | Python, YOLOv8, OpenCV, Flask, MySQL |
+| Project                                                                                                                     | Summary                                                                                                                                                                         | Tools Used                           |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [E-Commerce Sales and Customer Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics)       | End-to-end analytics project analyzing sales, returns, delivery delays, and customer support tickets with a 3-page Power BI dashboard and AI-style support ticket auto-tagging. | Python, SQL, Power BI, pandas, Excel |
+| [Procurement Analytics Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard)                         | Procurement analytics dashboard for supplier performance, defect tracking, and reporting.                                                                                       | SQL, Excel, Power Query, Power BI    |
+| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard)                         | Dashboard to analyze mutual fund performance using NAV, CAGR, Sharpe Ratio, Alpha, and Beta.                                                                                    | Excel, Power Query, Power BI         |
+| [Portfolio Optimization Tool](https://github.com/Koyyalanaveen/portfolio-optimization-tool)                                 | Portfolio optimization project using Excel Solver, Monte Carlo simulation, SQL, and Power BI.                                                                                   | Excel, SQL, Power BI                 |
+| [Customer Profitability Dashboard](https://github.com/Koyyalanaveen/excel-customer-profitability-dashboard)                 | Excel dashboard analyzing sales, profitability, discount impact, and customer performance.                                                                                      | Excel, PivotTables, Slicers          |
+| [AI Traffic Monitoring and Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | Academic computer vision project for traffic violation detection and challan record management.                                                                                 | Python, YOLOv8, OpenCV, Flask, MySQL |
+
+---
+
+## Latest Highlight Project
+
+### E-Commerce Sales and Customer Support Analytics Dashboard
+
+Built an end-to-end Data Analytics portfolio project using Python, SQL, and Power BI.
+
+The project includes:
+
+* Data cleaning and validation using Python and pandas
+* SQL business queries for sales, returns, delivery, and support analysis
+* Exploratory data analysis
+* 3-page Power BI dashboard
+* Sales Overview dashboard
+* Product and Delivery Analysis dashboard
+* Customer Support Analysis dashboard
+* Simple AI-style support ticket auto-tagging feature
+* Business insights and recommendations report
+
+Repository:
+https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics
 
 ---
 
 ## What I Can Do as a Fresher Analyst
 
-- Clean, validate, and transform raw datasets for reporting
-- Write SQL queries for data extraction and analysis
-- Build interactive dashboards using Power BI, Excel, and Tableau
-- Create KPI reports and business summaries
-- Identify trends, patterns, and data quality issues
-- Communicate insights in a simple and business-friendly way
+* Clean, validate, and transform raw datasets
+* Write SQL queries for business analysis
+* Build Power BI and Excel dashboards
+* Create KPI reports and business summaries
+* Identify sales, customer, product, and operational trends
+* Communicate insights in a simple and business-friendly way
 
 ---
 
-## Currently Learning
+## Currently Improving
 
-- Advanced SQL for analytics
-- Power BI DAX and dashboard optimization
-- Python for data analysis and automation
-- Tableau visual analytics
-- Data storytelling and business reporting
+* Advanced SQL for analytics
+* Power BI DAX
+* Python for data analysis
+* Data storytelling
+* Business reporting
+* Dashboard design
 
 ---
 
 ## Contact
 
-- **Location:** Hyderabad, India
-- **Email:** [koyyalanaveen566@gmail.com](mailto:koyyalanaveen566@gmail.com)
-- **LinkedIn:** [linkedin.com/in/naveen-koyyala](https://www.linkedin.com/in/naveen-koyyala/)
-- **GitHub:** [github.com/Koyyalanaveen](https://github.com/Koyyalanaveen)
+* Location: Hyderabad, India
+* LinkedIn: https://www.linkedin.com/in/naveen-koyyala
+* GitHub: https://github.com/Koyyalanaveen
 
----
-
-Open to fresher opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, and Python/Data Analytics roles**.
+Open to fresher opportunities in Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, and Business Analyst roles.
