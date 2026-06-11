@@ -41,14 +41,14 @@ I build analytics projects using Python, SQL, Excel, Power BI, and GitHub. My fo
 
 ## Featured Projects
 
-| Project                                                                                                                     | Summary                                                                                                                                                                         | Tools Used                           |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| [E-Commerce Sales and Customer Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics)       | End-to-end analytics project analyzing sales, returns, delivery delays, and customer support tickets with a 3-page Power BI dashboard and AI-style support ticket auto-tagging. | Python, SQL, Power BI, pandas, Excel |
-| [Procurement Analytics Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard)                         | Procurement analytics dashboard for supplier performance, defect tracking, and reporting.                                                                                       | SQL, Excel, Power Query, Power BI    |
-| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard)                         | Dashboard to analyze mutual fund performance using NAV, CAGR, Sharpe Ratio, Alpha, and Beta.                                                                                    | Excel, Power Query, Power BI         |
-| [Portfolio Optimization Tool](https://github.com/Koyyalanaveen/portfolio-optimization-tool)                                 | Portfolio optimization project using Excel Solver, Monte Carlo simulation, SQL, and Power BI.                                                                                   | Excel, SQL, Power BI                 |
-| [Customer Profitability Dashboard](https://github.com/Koyyalanaveen/excel-customer-profitability-dashboard)                 | Excel dashboard analyzing sales, profitability, discount impact, and customer performance.                                                                                      | Excel, PivotTables, Slicers          |
-| [AI Traffic Monitoring and Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | Academic computer vision project for traffic violation detection and challan record management.                                                                                 | Python, YOLOv8, OpenCV, Flask, MySQL |
+| Project | Summary | Tools |
+|---|---|---|
+| [E-Commerce Sales and Customer Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics) | End-to-end analytics project analyzing sales, returns, delivery delays, and support tickets with a 3-page Power BI dashboard. | Python, SQL, Power BI, pandas |
+| [Procurement Analytics Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Procurement and supplier performance dashboard for KPI tracking and reporting. | SQL, Excel, Power Query, Power BI |
+| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard) | Mutual fund performance dashboard using NAV, CAGR, Sharpe Ratio, Alpha, and Beta. | Excel, Power Query, Power BI |
+| [Portfolio Optimization Tool](https://github.com/Koyyalanaveen/portfolio-optimization-tool) | Portfolio risk-return analysis and allocation support project. | Python, Excel, SQL, Power BI |
+| [Customer Profitability Dashboard](https://github.com/Koyyalanaveen/excel-customer-profitability-dashboard) | Excel dashboard analyzing customer profitability, sales, and discount impact. | Excel, PivotTables, Slicers |
+| [AI Traffic Monitoring and Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | Academic computer vision project for traffic violation detection and challan record management. | Python, YOLOv8, OpenCV, MySQL |
 
 ---
 
