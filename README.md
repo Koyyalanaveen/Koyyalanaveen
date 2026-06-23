@@ -1,21 +1,33 @@
-# Hi, I'm Naveen Koyyala
+# Hi, I'm Naveen Koyyala 👋
 
-Data Analyst Fresher | SQL | Python | Power BI | Excel | BI Reporting
+**Data Analyst Fresher | SQL | Python | Power BI | Excel | BI Dashboards | Data Cleaning**
 
-I am a B.Tech ECE graduate from Hyderabad, India, interested in Data Analytics, Business Intelligence, reporting automation, and dashboard development.
+I am a Data Analyst fresher from Hyderabad, India, with hands-on portfolio projects in **data cleaning, SQL analysis, Power BI dashboards, Excel reporting, KPI tracking, and business insights**.
 
-I build analytics projects using Python, SQL, Excel, Power BI, and GitHub. My focus is on data cleaning, validation, KPI reporting, dashboard storytelling, and converting raw data into useful business insights.
+I enjoy converting raw data into clean reports, dashboards, and simple business recommendations that help decision-making.
 
 ---
 
-## Skills
+## 🔹 Best Projects to Review First
+
+| Project                                                                                                 | Business Problem                                             | Tools Used                        | Output                                          |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
+| [E-Commerce Sales & Customer Support Analytics](/Koyyalanaveen/ecommerce-sales-support-analytics)       | Analyze sales, returns, delivery delays, and support tickets | Python, SQL, Power BI, pandas     | 3-page dashboard, SQL insights, business report |
+| [Procurement Analytics Dashboard](/Koyyalanaveen/Procurement-Analytics-Dashboard)                       | Track supplier performance, defects, and procurement KPIs    | SQL, Excel, Power Query, Power BI | Procurement dashboard and KPI report            |
+| [Mutual Fund Analytics Dashboard](/Koyyalanaveen/Mutual-fund-analytics-dashboard)                       | Analyze mutual fund performance using finance metrics        | Excel, Power Query, Power BI      | NAV, CAGR, Sharpe Ratio, Alpha, Beta dashboard  |
+| [Portfolio Optimization Tool](/Koyyalanaveen/portfolio-optimization-tool)                               | Study portfolio risk, return, and allocation                 | Python, Excel, SQL, Power BI      | Risk-return analysis and allocation support     |
+| [Inventory Demand Dashboard](/Koyyalanaveen/Inventory-demand-dashboard)                                 | Analyze inventory, stock levels, and demand patterns         | Excel, PivotTables, Dashboarding  | Inventory KPI dashboard                         |
+| [AI Traffic Monitoring & Challan System](/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | Detect traffic violations and manage challan records         | Python, YOLOv8, OpenCV, MySQL     | Academic computer vision project                |
+
+---
+
+## 🛠️ Skills
 
 ### Data Analytics
 
 * SQL, MySQL
 * Python, pandas, NumPy
-* Data Cleaning
-* Data Validation
+* Data Cleaning and Data Validation
 * Exploratory Data Analysis
 * KPI Reporting
 * Business Insights
@@ -23,10 +35,9 @@ I build analytics projects using Python, SQL, Excel, Power BI, and GitHub. My fo
 ### Business Intelligence
 
 * Power BI
-* DAX
-* Excel
+* DAX Basics
 * Power Query
-* Dashboard Development
+* Excel Dashboards
 * Data Visualization
 * BI Reporting
 
@@ -39,68 +50,54 @@ I build analytics projects using Python, SQL, Excel, Power BI, and GitHub. My fo
 
 ---
 
-## Featured Projects
+## ⭐ Latest Highlight Project
 
-| Project | Summary | Tools |
-|---|---|---|
-| [E-Commerce Sales and Customer Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics) | End-to-end analytics project analyzing sales, returns, delivery delays, and support tickets with a 3-page Power BI dashboard. | Python, SQL, Power BI, pandas |
-| [Procurement Analytics Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Procurement and supplier performance dashboard for KPI tracking and reporting. | SQL, Excel, Power Query, Power BI |
-| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard) | Mutual fund performance dashboard using NAV, CAGR, Sharpe Ratio, Alpha, and Beta. | Excel, Power Query, Power BI |
-| [Portfolio Optimization Tool](https://github.com/Koyyalanaveen/portfolio-optimization-tool) | Portfolio risk-return analysis and allocation support project. | Python, Excel, SQL, Power BI |
-| [Customer Profitability Dashboard](https://github.com/Koyyalanaveen/excel-customer-profitability-dashboard) | Excel dashboard analyzing customer profitability, sales, and discount impact. | Excel, PivotTables, Slicers |
-| [AI Traffic Monitoring and Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | Academic computer vision project for traffic violation detection and challan record management. | Python, YOLOv8, OpenCV, MySQL |
+### E-Commerce Sales and Customer Support Analytics
 
----
+An end-to-end analytics project built using **Python, SQL, and Power BI**.
 
-## Latest Highlight Project
-
-### E-Commerce Sales and Customer Support Analytics Dashboard
-
-Built an end-to-end Data Analytics portfolio project using Python, SQL, and Power BI.
-
-The project includes:
+This project includes:
 
 * Data cleaning and validation using Python and pandas
 * SQL business queries for sales, returns, delivery, and support analysis
 * Exploratory data analysis
 * 3-page Power BI dashboard
-* Sales Overview dashboard
-* Product and Delivery Analysis dashboard
-* Customer Support Analysis dashboard
-* Simple AI-style support ticket auto-tagging feature
+* Sales overview dashboard
+* Product and delivery analysis dashboard
+* Customer support analysis dashboard
+* AI-style support ticket auto-tagging
 * Business insights and recommendations report
 
-Repository:
-https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics
+**Repository:** [E-Commerce Sales & Customer Support Analytics](/Koyyalanaveen/ecommerce-sales-support-analytics)
 
 ---
 
-## What I Can Do as a Fresher Analyst
+## 💼 What I Can Do as a Fresher Analyst
 
 * Clean, validate, and transform raw datasets
 * Write SQL queries for business analysis
 * Build Power BI and Excel dashboards
 * Create KPI reports and business summaries
 * Identify sales, customer, product, and operational trends
-* Communicate insights in a simple and business-friendly way
+* Present insights in a simple and business-friendly way
 
 ---
 
-## Currently Improving
+## 📚 Currently Improving
 
 * Advanced SQL for analytics
 * Power BI DAX
 * Python for data analysis
 * Data storytelling
-* Business reporting
 * Dashboard design
+* Business reporting
 
 ---
 
-## Contact
+## 📫 Contact
 
 * Location: Hyderabad, India
-* LinkedIn: https://www.linkedin.com/in/naveen-koyyala
-* GitHub: https://github.com/Koyyalanaveen
+* LinkedIn: [linkedin.com/in/naveen-koyyala](https://www.linkedin.com/in/naveen-koyyala)
+* GitHub: [github.com/Koyyalanaveen](https://github.com/Koyyalanaveen)
 
-Open to fresher opportunities in Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, and Business Analyst roles.
+Open to fresher opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, and Business Analyst roles**.
