@@ -1,103 +1,90 @@
 # Hi, I'm Naveen Koyyala 👋
 
-**Data Analyst Fresher | SQL | Python | Power BI | Excel | BI Dashboards | Data Cleaning**
+**Data Analyst Fresher | SQL · Python · Power BI · Excel · BI Reporting**
 
-I am a Data Analyst fresher from Hyderabad, India, with hands-on portfolio projects in **data cleaning, SQL analysis, Power BI dashboards, Excel reporting, KPI tracking, and business insights**.
-
-I enjoy converting raw data into clean reports, dashboards, and simple business recommendations that help decision-making.
-
----
-
-## 🔹 Best Projects to Review First
-
-| Project                                                                                                 | Business Problem                                             | Tools Used                        | Output                                          |
-| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ----------------------------------------------- |
-| [E-Commerce Sales & Customer Support Analytics](/Koyyalanaveen/ecommerce-sales-support-analytics)       | Analyze sales, returns, delivery delays, and support tickets | Python, SQL, Power BI, pandas     | 3-page dashboard, SQL insights, business report |
-| [Procurement Analytics Dashboard](/Koyyalanaveen/Procurement-Analytics-Dashboard)                       | Track supplier performance, defects, and procurement KPIs    | SQL, Excel, Power Query, Power BI | Procurement dashboard and KPI report            |
-| [Mutual Fund Analytics Dashboard](/Koyyalanaveen/Mutual-fund-analytics-dashboard)                       | Analyze mutual fund performance using finance metrics        | Excel, Power Query, Power BI      | NAV, CAGR, Sharpe Ratio, Alpha, Beta dashboard  |
-| [Portfolio Optimization Tool](/Koyyalanaveen/portfolio-optimization-tool)                               | Study portfolio risk, return, and allocation                 | Python, Excel, SQL, Power BI      | Risk-return analysis and allocation support     |
-| [Inventory Demand Dashboard](/Koyyalanaveen/Inventory-demand-dashboard)                                 | Analyze inventory, stock levels, and demand patterns         | Excel, PivotTables, Dashboarding  | Inventory KPI dashboard                         |
-| [AI Traffic Monitoring & Challan System](/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | Detect traffic violations and manage challan records         | Python, YOLOv8, OpenCV, MySQL     | Academic computer vision project                |
+B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects covering data cleaning, SQL analysis, KPI dashboarding, and business intelligence reporting. My focus is on converting raw data into clear, actionable business insights.
 
 ---
 
 ## 🛠️ Skills
 
-### Data Analytics
+**Data & Programming**
 
-* SQL, MySQL
-* Python, pandas, NumPy
-* Data Cleaning and Data Validation
-* Exploratory Data Analysis
-* KPI Reporting
-* Business Insights
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Business Intelligence
+**Business Intelligence & Visualization**
 
-* Power BI
-* DAX Basics
-* Power Query
-* Excel Dashboards
-* Data Visualization
-* BI Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### Reporting & Automation
+**Tools & Platforms**
 
-* MIS Reporting
-* Data Quality Checks
-* Report Automation
-* Basic AI-style automation using Python
-
----
-
-## ⭐ Latest Highlight Project
-
-### E-Commerce Sales and Customer Support Analytics
-
-An end-to-end analytics project built using **Python, SQL, and Power BI**.
-
-This project includes:
-
-* Data cleaning and validation using Python and pandas
-* SQL business queries for sales, returns, delivery, and support analysis
-* Exploratory data analysis
-* 3-page Power BI dashboard
-* Sales overview dashboard
-* Product and delivery analysis dashboard
-* Customer support analysis dashboard
-* AI-style support ticket auto-tagging
-* Business insights and recommendations report
-
-**Repository:** [E-Commerce Sales & Customer Support Analytics](/Koyyalanaveen/ecommerce-sales-support-analytics)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 💼 What I Can Do as a Fresher Analyst
+## 📊 Featured Projects
 
-* Clean, validate, and transform raw datasets
-* Write SQL queries for business analysis
-* Build Power BI and Excel dashboards
-* Create KPI reports and business summaries
-* Identify sales, customer, product, and operational trends
-* Present insights in a simple and business-friendly way
-
----
-
-## 📚 Currently Improving
-
-* Advanced SQL for analytics
-* Power BI DAX
-* Python for data analysis
-* Data storytelling
-* Dashboard design
-* Business reporting
+| Project | Summary | Tools |
+|---|---|---|
+| [E-Commerce Sales & Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics) | End-to-end analytics project covering sales, delivery, returns, and support tickets with AI-style ticket auto-tagging. | Python, SQL, Power BI, Pandas |
+| [AI Data Cleaning & Quality Audit Assistant](https://github.com/Koyyalanaveen/AI-Data-Cleaning-Quality-Audit-Assistant) | Streamlit web app for CSV data profiling, quality scoring, business rule validation, and cleaned file export. | Python, Streamlit, Pandas |
+| [Procurement & Supplier Performance Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Analyzed 777 purchase orders across 5 suppliers to track OTD, defect rates, and a $4M savings opportunity. | SQL, Excel, Power Query, Power BI |
+| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard) | Analyzed 20 mutual funds across Equity, Debt, and Hybrid categories using NAV, CAGR, Sharpe Ratio, Alpha, and Beta. | Excel, Power Query, Power BI, DAX |
+| [Portfolio Optimization & Risk Analysis](https://github.com/Koyyalanaveen/portfolio-optimization-tool) | Risk-return analysis using Monte Carlo simulation and Excel Solver to support asset allocation decisions. | Python, Pandas, NumPy, Excel, Power BI |
+| [AI-Based Smart Traffic Monitoring & Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | B.Tech major project for traffic violation detection using computer vision and OCR-based number plate recognition. IEEE paper submitted. | Python, YOLOv8, OpenCV, Flask, MySQL |
 
 ---
 
-## 📫 Contact
+## 💼 What I Bring to the Table
 
-* Location: Hyderabad, India
-* LinkedIn: [linkedin.com/in/naveen-koyyala](https://www.linkedin.com/in/naveen-koyyala)
-* GitHub: [github.com/Koyyalanaveen](https://github.com/Koyyalanaveen)
+- Clean, validate, and transform raw datasets for business reporting
+- Write SQL queries for data extraction, aggregation, and analysis
+- Build interactive dashboards in Power BI, Excel, and Tableau
+- Create KPI reports, MIS summaries, and business insight decks
+- Automate repetitive reporting tasks using Excel VBA and Python
+- Build lightweight data tools and audit apps using Streamlit
 
-Open to fresher opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, and Business Analyst roles**.
+---
+
+## 📜 Certifications
+
+- SQL Intermediate — HackerRank
+- Excel Basics for Data Analysis — IBM / Coursera
+- Data Visualization & Dashboards with Excel and Cognos — IBM / Coursera
+- Power BI Workshop — OfficeMaster
+- Python Essentials 1 & 2 — Cisco / OpenEDG (May 2026)
+- YUVA AI For All — TCS iON / IndiaAI
+
+---
+
+## 🚀 Currently Exploring
+
+- Microsoft Power BI PL-300 Certification (in progress)
+- Advanced DAX patterns and data modeling
+- Azure Data Fundamentals (DP-900)
+- Alteryx Designer Core
+
+---
+
+## 📬 Contact
+
+- **Location:** Hyderabad, India — Open to Pan-India & Remote roles
+- **Email:** [koyyalanaveen566@gmail.com](mailto:koyyalanaveen566@gmail.com)
+- **LinkedIn:** [linkedin.com/in/naveen-koyyala](https://www.linkedin.com/in/naveen-koyyala/)
+- **GitHub:** [github.com/Koyyalanaveen](https://github.com/Koyyalanaveen)
+
+---
+
+Open to fresher opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, Python Analytics, and Business Analyst roles**. Immediate joiner.
