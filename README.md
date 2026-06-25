@@ -19,15 +19,17 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 **Business Intelligence & Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Tools & Platforms**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -50,9 +52,9 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 
 - Clean, validate, and transform raw datasets for business reporting
 - Write SQL queries for data extraction, aggregation, and analysis
-- Build interactive dashboards in Power BI, Excel, and Tableau
+- Build interactive Power BI dashboards with DAX measures and Power Query ETL
+- Build financial models and KPI trackers in Advanced Excel
 - Create KPI reports, MIS summaries, and business insight decks
-- Automate repetitive reporting tasks using Excel VBA and Python
 - Build lightweight data tools and audit apps using Streamlit
 
 ---
@@ -70,10 +72,8 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 
 ## 🚀 Currently Exploring
 
-- Microsoft Power BI PL-300 Certification (in progress)
-- Advanced DAX patterns and data modeling
-- Azure Data Fundamentals (DP-900)
-- Alteryx Designer Core
+- Python Data Visualization — Matplotlib and Seaborn (actively practicing)
+- Excel VBA & Reporting Automation (currently learning)
 
 ---
 
