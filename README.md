@@ -1,6 +1,6 @@
 # Hi, I'm Naveen Koyyala 👋
 
-**Data Analyst Fresher | SQL · Python · Power BI · Excel · BI Reporting**
+**Data Analyst  | SQL · Python · Power BI · Excel · BI Reporting**
 
 B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects covering data cleaning, SQL analysis, KPI dashboarding, and business intelligence reporting. My focus is on converting raw data into clear, actionable business insights.
 
