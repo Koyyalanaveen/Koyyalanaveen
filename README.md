@@ -84,4 +84,4 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 
 ---
 
-Open to fresher opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, Python Analytics, and Business Analyst roles**. Immediate joiner.
+Open to entry-level opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, Python Analytics, and Business Analyst roles**. Immediate joiner.
