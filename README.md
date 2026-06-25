@@ -65,7 +65,6 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 - Data Visualization & Dashboards with Excel and Cognos — IBM / Coursera
 - Power BI Workshop — OfficeMaster
 - Python Essentials 1 & 2 — Cisco / OpenEDG (May 2026)
-- YUVA AI For All — TCS iON / IndiaAI
 
 ---
 
