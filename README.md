@@ -1,14 +1,14 @@
 # Hi, I'm Naveen Koyyala 👋
 
-**Data Analyst | Supply Chain & Procurement Analytics | SQL · Python · Power BI · Excel**
+**Data Analyst | SCM & Procurement Analytics | SQL · Power BI · Excel · Python · SAP MM (Learning)**
 
-B.Tech ECE graduate from MLR Institute of Technology, Hyderabad. I build end-to-end analytics projects around procurement, inventory, and supplier performance, along with finance analytics and BI reporting. My focus is turning raw data into clear, actionable business insights.
+B.Tech ECE graduate from MLR Institute of Technology, Hyderabad. I build end-to-end analytics projects around procurement, inventory, and supplier performance, along with finance analytics and BI reporting. I'm currently learning SAP MM to connect analytics with ERP-based purchasing and inventory processes. My focus is turning raw data into clear, actionable business insights.
 
 ---
 
 ## 🎯 Domain Focus
 
-Procure-to-Pay (P2P) analysis · Purchase order and spend analytics · Supplier performance and vendor evaluation · Inventory and demand analytics · KPI and MIS reporting
+Procure-to-Pay (P2P) analysis · Purchase order and spend analytics · Supplier performance and vendor evaluation · Inventory and demand analytics · KPI and MIS reporting · SAP MM (Materials Management), currently learning
 
 ---
 
@@ -38,6 +38,10 @@ Procure-to-Pay (P2P) analysis · Purchase order and spend analytics · Supplier 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+**ERP (Currently Learning)**
+
+![SAP MM](https://img.shields.io/badge/SAP%20MM-Learning-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ---
 
@@ -95,4 +99,4 @@ Procure-to-Pay (P2P) analysis · Purchase order and spend analytics · Supplier 
 
 ---
 
-Open to entry-level and graduate trainee roles in **Supply Chain Analytics, Procurement Analytics, Inventory Analytics, Data Analytics, BI Reporting, and MIS Reporting**.
+Open to entry-level and graduate trainee roles in **SCM Analytics, Procurement Analytics, Inventory Analytics, Data Analytics, BI Reporting, and MIS Reporting**, and other analytics-related roles.
