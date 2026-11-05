@@ -1,8 +1,14 @@
 # Hi, I'm Naveen Koyyala 👋
 
-**Data Analyst  | SQL · Python · Power BI · Excel · BI Reporting**
+**Data Analyst | Supply Chain & Procurement Analytics | SQL · Python · Power BI · Excel**
 
-B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects covering data cleaning, SQL analysis, KPI dashboarding, and business intelligence reporting. My focus is on converting raw data into clear, actionable business insights.
+B.Tech ECE graduate from MLR Institute of Technology, Hyderabad. I build end-to-end analytics projects around procurement, inventory, and supplier performance, along with finance analytics and BI reporting. My focus is turning raw data into clear, actionable business insights.
+
+---
+
+## 🎯 Domain Focus
+
+Procure-to-Pay (P2P) analysis · Purchase order and spend analytics · Supplier performance and vendor evaluation · Inventory and demand analytics · KPI and MIS reporting
 
 ---
 
@@ -29,6 +35,7 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -38,22 +45,24 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 
 | Project | Summary | Tools |
 |---|---|---|
-| [E-Commerce Sales & Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics) | End-to-end analytics project covering sales, delivery, returns, and support tickets with AI-style ticket auto-tagging. | Python, SQL, Power BI, Pandas |
-| [AI Data Cleaning & Quality Audit Assistant](https://github.com/Koyyalanaveen/AI-Data-Cleaning-Quality-Audit-Assistant) | Streamlit web app for CSV data profiling, quality scoring, business rule validation, and cleaned file export. | Python, Streamlit, Pandas |
-| [Procurement & Supplier Performance Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Analyzed 777 purchase orders across 5 suppliers to track OTD, defect rates, and a $4M savings opportunity. | SQL, Excel, Power Query, Power BI |
+| [Procurement & Supplier Performance Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Analyzed 777 purchase orders across 5 suppliers to track on-time delivery, defect rates, compliance, and a $4M savings opportunity. | SQL, Excel, Power Query, Power BI |
+| [Inventory & Demand Analytics Dashboard](https://github.com/Koyyalanaveen/Inventory-demand-dashboard) | Interactive dashboard monitoring inventory levels, sales trends, product performance, and reorder alerts. | Excel, Power BI |
+| [E-Commerce Sales & Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics) | End-to-end analysis of sales, returns, delivery delays, and customer support performance, with AI-style ticket auto-tagging. | Python, SQL, Power BI, Pandas |
 | [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard) | Analyzed 20 mutual funds across Equity, Debt, and Hybrid categories using NAV, CAGR, Sharpe Ratio, Alpha, and Beta. | Excel, Power Query, Power BI, DAX |
 | [Portfolio Optimization & Risk Analysis](https://github.com/Koyyalanaveen/portfolio-optimization-tool) | Risk-return analysis using Monte Carlo simulation and Excel Solver to support asset allocation decisions. | Python, Pandas, NumPy, Excel, Power BI |
+| [AI Data Cleaning & Quality Audit Assistant](https://github.com/Koyyalanaveen/AI-Data-Cleaning-Quality-Audit-Assistant) | Streamlit app for CSV data profiling, quality scoring, business rule validation, and cleaned file export. | Python, Streamlit, Pandas |
 | [AI-Based Smart Traffic Monitoring & Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | B.Tech major project for traffic violation detection using computer vision and OCR-based number plate recognition. IEEE paper submitted. | Python, YOLOv8, OpenCV, Flask, MySQL |
 
 ---
 
 ## 💼 What I Bring to the Table
 
-- Clean, validate, and transform raw datasets for business reporting
+- Analyze purchase orders, spend, and supplier delivery and quality performance
+- Track inventory levels, demand trends, and reorder needs through dashboards
 - Write SQL queries for data extraction, aggregation, and analysis
 - Build interactive Power BI dashboards with DAX measures and Power Query ETL
 - Build financial models and KPI trackers in Advanced Excel
-- Create KPI reports, MIS summaries, and business insight decks
+- Clean, validate, and transform raw datasets for business reporting
 - Build lightweight data tools and audit apps using Streamlit
 
 ---
@@ -64,14 +73,16 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 - Excel Basics for Data Analysis — IBM / Coursera
 - Data Visualization & Dashboards with Excel and Cognos — IBM / Coursera
 - Power BI Workshop — OfficeMaster
-- Python Essentials 1 & 2 — Cisco / OpenEDG (May 2026)
+- Python Essentials 1 & 2 — Cisco / OpenEDG
+- YUVA AI For All — TCS iON / IndiaAI
 
 ---
 
-## 🚀 Currently Exploring
+## 🚀 Currently Learning
 
-- Python Data Visualization — Matplotlib and Seaborn (actively practicing)
-- Excel VBA & Reporting Automation (currently learning)
+- SAP MM (Materials Management) — purchasing, material master, goods receipt, invoice verification
+- Python Data Visualization — Matplotlib and Seaborn
+- Excel VBA & Reporting Automation
 
 ---
 
@@ -79,9 +90,9 @@ B.Tech ECE Graduate from Hyderabad, India. I build end-to-end analytics projects
 
 - **Location:** Hyderabad, India — Open to Pan-India & Remote roles
 - **Email:** [koyyalanaveen566@gmail.com](mailto:koyyalanaveen566@gmail.com)
-- **LinkedIn:** [linkedin.com/in/naveen-koyyala](https://www.linkedin.com/in/naveen-koyyala/)
+- **LinkedIn:** [linkedin.com/in/naveenkoyyala](https://www.linkedin.com/in/naveenkoyyala)
 - **GitHub:** [github.com/Koyyalanaveen](https://github.com/Koyyalanaveen)
 
 ---
 
-Open to entry-level opportunities in **Data Analytics, BI Reporting, MIS Reporting, SQL Analysis, Python Analytics, and Business Analyst roles**. Immediate joiner.
+Open to entry-level and graduate trainee roles in **Supply Chain Analytics, Procurement Analytics, Inventory Analytics, Data Analytics, BI Reporting, and MIS Reporting**.
