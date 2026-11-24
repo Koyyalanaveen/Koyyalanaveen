@@ -1,6 +1,6 @@
 # Naveen Koyyala
 
-Supply chain and procurement analytics | SQL, Power BI, Excel, Python | Learning SAP MM
+Supply chain and procurement analytics | SQL, Power BI, Excel, Python | SAP MM
 
 I'm an electronics engineer (B.Tech ECE, MLR Institute of Technology, 2026) moving into supply chain and procurement analytics. I work as a Graduate Engineer Trainee at a waste-to-energy plant in Hyderabad. Outside work I build dashboards that answer questions buyers and planners ask: which suppliers miss delivery dates, and which products move slowly. I'm learning SAP MM to connect that analysis to how ERP systems handle purchasing and inventory.
 
