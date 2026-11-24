@@ -1,100 +1,43 @@
-# Hi, I'm Naveen Koyyala 👋
+# Naveen Koyyala
 
-**Data Analyst | SCM & Procurement Analytics | SQL · Power BI · Excel · Python · SAP MM (Learning)**
+Supply chain and procurement analytics | Power BI, DAX, SQL, Excel, Python
 
-B.Tech ECE graduate from MLR Institute of Technology, Hyderabad. I build end-to-end analytics projects around procurement, inventory, and supplier performance, along with finance analytics and BI reporting. I'm currently learning SAP MM to connect analytics with ERP-based purchasing and inventory processes. My focus is turning raw data into clear, actionable business insights.
+I'm an electronics engineer (B.Tech ECE, 2026) moving into supply chain and procurement analytics. I work as a Graduate Engineer Trainee at a waste-to-energy plant in Hyderabad. Outside work I build dashboards that answer questions buyers and planners ask: which suppliers miss delivery dates, and which products move slowly.
 
----
+I'm looking for entry-level analyst and graduate trainee roles in procurement, supply chain and inventory, in Hyderabad or remote.
 
-## 🎯 Domain Focus
+## Supply chain and procurement projects
 
-Procure-to-Pay (P2P) analysis · Purchase order and spend analytics · Supplier performance and vendor evaluation · Inventory and demand analytics · KPI and MIS reporting · SAP MM (Materials Management), currently learning
+- [Procurement and supplier performance dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard): 777 purchase orders, 5 suppliers and 5 categories (public Kaggle dataset, Jan 2022 to Jan 2024). On-time delivery came out at 72.1%, and Delta_Logistics was the weakest supplier (70.2% on time, 10.83% defect rate). Built in Power BI with DAX and Power Query, plus a 30-query SQL case study using CTEs and window functions.
+- [Inventory and demand dashboard](https://github.com/Koyyalanaveen/Inventory-demand-dashboard): 108 transactions across 9 products and 4 regions in 2023 (sample Kaggle dataset). Excel with 7 pivot tables, 4 slicers and 12+ charts. Average stock turnover was 0.90.
+- [E-commerce sales and support analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics): a synthetic dataset of 6 CSV files that I generated. Python, MySQL and Power BI across sales, returns (about 17%), delivery delays and support tickets. Tickets are tagged by keyword rules, not a machine learning model.
+- [Data cleaning and quality audit app](https://github.com/Koyyalanaveen/AI-Data-Cleaning-Quality-Audit-Assistant): a Streamlit app. Upload a CSV and it checks missing values, duplicates, invalid dates, negatives and outliers, gives a quality score, and exports a cleaned file and an audit report. Rule-based, no machine learning.
 
----
+## Other analytics projects
 
-## 🛠️ Skills
+- [Mutual fund analytics dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard): 20 funds from Q1 2020 to Q1 2025. CAGR, Sharpe ratio, alpha, beta and expense ratio impact in Excel, Power Query, DAX and Power BI.
+- [Portfolio optimization tool](https://github.com/Koyyalanaveen/portfolio-optimization-tool): 18 stocks over 60 months, stored in MySQL. Excel Solver maximizes the Sharpe ratio with a 30% cap per stock, and a Monte Carlo run covers 1,000 simulations.
+- [Traffic monitoring and automatic challan system](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System): my B.Tech major project. YOLOv8, OpenCV, OCR, Flask and MySQL.
 
-**Data & Programming**
+## Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+Power BI (DAX, Power Query), SQL and MySQL, Excel (pivot tables, INDEX/MATCH, SUMIFS, Solver), Python (pandas, NumPy), Streamlit, Jupyter, Git and GitHub.
 
-**Business Intelligence & Visualization**
+## Certifications
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
+- SQL Intermediate, HackerRank
+- Excel Basics for Data Analysis, IBM / Coursera
+- Data Visualization and Dashboards with Excel and Cognos, IBM / Coursera
+- Power BI Workshop, OfficeMaster
+- Python Essentials 1 and 2, Cisco / OpenEDG (May 2026)
 
-**Tools & Platforms**
+## Learning now
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+Supply chain management (procurement, inventory, logistics, supplier performance), SAP MM (purchase requisitions, purchase orders, goods receipts, inventory), Excel VBA, and Matplotlib and Seaborn.
 
-**ERP (Currently Learning)**
+## Contact
 
-![SAP MM](https://img.shields.io/badge/SAP%20MM-Learning-0FAAFF?style=flat&logo=sap&logoColor=white)
+Hyderabad, India. Open to Hyderabad-based and remote roles.
 
----
-
-## 📊 Featured Projects
-
-| Project | Summary | Tools |
-|---|---|---|
-| [Procurement & Supplier Performance Dashboard](https://github.com/Koyyalanaveen/Procurement-Analytics-Dashboard) | Analyzed 777 purchase orders across 5 suppliers to track on-time delivery, defect rates, compliance, and a $4M savings opportunity. | SQL, Excel, Power Query, Power BI |
-| [Inventory & Demand Analytics Dashboard](https://github.com/Koyyalanaveen/Inventory-demand-dashboard) | Interactive dashboard monitoring inventory levels, sales trends, product performance, and reorder alerts. | Excel, Power BI |
-| [E-Commerce Sales & Support Analytics](https://github.com/Koyyalanaveen/ecommerce-sales-support-analytics) | End-to-end analysis of sales, returns, delivery delays, and customer support performance, with AI-style ticket auto-tagging. | Python, SQL, Power BI, Pandas |
-| [Mutual Fund Analytics Dashboard](https://github.com/Koyyalanaveen/Mutual-fund-analytics-dashboard) | Analyzed 20 mutual funds across Equity, Debt, and Hybrid categories using NAV, CAGR, Sharpe Ratio, Alpha, and Beta. | Excel, Power Query, Power BI, DAX |
-| [Portfolio Optimization & Risk Analysis](https://github.com/Koyyalanaveen/portfolio-optimization-tool) | Risk-return analysis using Monte Carlo simulation and Excel Solver to support asset allocation decisions. | Python, Pandas, NumPy, Excel, Power BI |
-| [AI Data Cleaning & Quality Audit Assistant](https://github.com/Koyyalanaveen/AI-Data-Cleaning-Quality-Audit-Assistant) | Streamlit app for CSV data profiling, quality scoring, business rule validation, and cleaned file export. | Python, Streamlit, Pandas |
-| [AI-Based Smart Traffic Monitoring & Challan System](https://github.com/Koyyalanaveen/AI-Traffic-Monitoring-Automatic-Challan-System) | B.Tech major project for traffic violation detection using computer vision and OCR-based number plate recognition. IEEE paper submitted. | Python, YOLOv8, OpenCV, Flask, MySQL |
-
----
-
-## 💼 What I Bring to the Table
-
-- Analyze purchase orders, spend, and supplier delivery and quality performance
-- Track inventory levels, demand trends, and reorder needs through dashboards
-- Write SQL queries for data extraction, aggregation, and analysis
-- Build interactive Power BI dashboards with DAX measures and Power Query ETL
-- Build financial models and KPI trackers in Advanced Excel
-- Clean, validate, and transform raw datasets for business reporting
-- Build lightweight data tools and audit apps using Streamlit
-
----
-
-## 📜 Certifications
-
-- SQL Intermediate — HackerRank
-- Excel Basics for Data Analysis — IBM / Coursera
-- Data Visualization & Dashboards with Excel and Cognos — IBM / Coursera
-- Power BI Workshop — OfficeMaster
-- Python Essentials 1 & 2 — Cisco / OpenEDG
-- YUVA AI For All — TCS iON / IndiaAI
-
----
-
-## 🚀 Currently Learning
-
-- SAP MM (Materials Management) — purchasing, material master, goods receipt, invoice verification
-- Python Data Visualization — Matplotlib and Seaborn
-- Excel VBA & Reporting Automation
-
----
-
-## 📬 Contact
-
-- **Location:** Hyderabad, India — Open to Pan-India & Remote roles
-- **Email:** [koyyalanaveen566@gmail.com](mailto:koyyalanaveen566@gmail.com)
-- **LinkedIn:** [linkedin.com/in/naveenkoyyala](https://www.linkedin.com/in/naveenkoyyala)
-- **GitHub:** [github.com/Koyyalanaveen](https://github.com/Koyyalanaveen)
-
----
-
-Open to entry-level and graduate trainee roles in **SCM Analytics, Procurement Analytics, Inventory Analytics, Data Analytics, BI Reporting, and MIS Reporting**, and other analytics-related roles.
+Email: koyyalanaveen566@gmail.com
+LinkedIn: https://www.linkedin.com/in/naveen-koyyala
