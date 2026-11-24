@@ -37,7 +37,7 @@ Procure-to-pay (P2P), purchase order and spend analysis, supplier performance an
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![SAP MM](https://img.shields.io/badge/SAP%20MM-Learning-0FAAFF?style=flat&logo=sap&logoColor=white)
+![SAP MM]
 
 Power BI (DAX, Power Query), SQL and MySQL, Excel (pivot tables, INDEX/MATCH, SUMIFS, Solver), Python (pandas, NumPy), Streamlit, Jupyter, Git and GitHub.
 
